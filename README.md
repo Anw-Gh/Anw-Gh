@@ -2,7 +2,7 @@
 <h3 align="center">I'm passionate about the fascinating world of Artificial Intelligence and Robotics</h3>
 
 - 🔭 I’m currently working on **a self-driving car prototype that utilizes computer vision algorithms for object detection and decision-making.**
-- 🔭 also i'm working on **an intelligent chatbot using natural language processing techniques and open sources LLMs to provide personalized assistance and virtual voice assistant.**
+- 🔭 also i'm working on **an intelligent chatbot using natural language processing techniques and open-source language models to provide personalized assistance and virtual voice assistant.**
 
 - 🌱 I’m currently learning **Pytorch, and some Deep learning courses**
 
