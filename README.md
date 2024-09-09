@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pytorch, and some Deep learning courses**
 
-- 💬 Ask me about **python,matlab,computer vision, openCV**
+- 💬 Ask me about **python,matlab,computer vision, AI**
 
 - 📫 How to reach me **anwarghrawi66@gmail.com**
 
